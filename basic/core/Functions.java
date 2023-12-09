@@ -1,3 +1,5 @@
+package basic.core;
+
 import java.util.Scanner;
 
 public class Functions {

@@ -1,3 +1,5 @@
+package basic.core;
+
 import java.util.Scanner;
 
 public class ControlFlow {
@@ -23,7 +25,7 @@ public class ControlFlow {
 
         int i = 0;
         while(i < 5){
-            System.out.println("Hello World");
+            System.out.println("java.core.Hello World");
             i++;
         }
     }

@@ -1,3 +1,5 @@
+package basic.core;
+
 public class Constructor {
 
     static int noOfUser = 10; // static variable
